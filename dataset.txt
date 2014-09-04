@@ -1,0 +1,5 @@
+(1) afile.html  --original  (afile = c++)
+(2) afile1.html -----add sth in the head 
+(3)afile2.html -----add sth in the end
+(4) afile3.html ---add sth in the middle
+(5) java.html   ---different one wiki
