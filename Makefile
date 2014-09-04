@@ -21,4 +21,4 @@ writen.o:writen.c global.h
 	gcc -c writen.c
 
 clean :
-	-rm client sha1.o recipe.o rabin.o client.o backup.o
+	-rm client client *.o
